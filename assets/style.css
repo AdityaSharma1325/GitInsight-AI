@@ -1,0 +1,35 @@
+.main-title {
+    font-size: 40px;
+    font-weight: bold;
+    color: #60A5FA;
+}
+
+.section-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.metric-card {
+    padding: 18px;
+    border-radius: 12px;
+    background: #1E293B;
+    border: 1px solid #334155;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.25);
+}
+
+.metric-card table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.metric-card table td {
+    padding: 8px 0;
+    border-bottom: 1px solid #334155;
+}
+
+.metric-card table td:last-child {
+    text-align: right;
+    font-weight: bold;
+    color: #60A5FA;
+}
