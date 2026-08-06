@@ -10,7 +10,7 @@ Beyond repository chat, the platform provides AI-powered code reviews, repositor
 
 Unlike traditional AI chatbots, GitInsight AI grounds every response using retrieved source code, significantly reducing hallucinations and improving answer accuracy.
 
-**🔗 Live Demo:** https://your-streamlit-app.streamlit.app/
+**🔗 Live Demo:** https://gitinsight-ai-l8ghfpt6gbrkrvlbu2u7kd.streamlit.app/
 
 ---
 
@@ -465,7 +465,7 @@ This significantly reduces hallucinations compared to traditional AI assistants.
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/GitInsight-AI.git
+git clone https://github.com/AdityaSharma1325/GitInsight-AI.git
 
 cd GitInsight-AI
 ```
@@ -521,7 +521,7 @@ python -m streamlit run app.py
 ## 6. Open Browser
 
 ```
-https://your-streamlit-app.streamlit.app/
+https://gitinsight-ai-l8ghfpt6gbrkrvlbu2u7kd.streamlit.app/
 ```
 
 ---
