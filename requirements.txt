@@ -8,3 +8,5 @@ GitPython
 python-dotenv
 pandas
 groq
+pyvis
+networkx
